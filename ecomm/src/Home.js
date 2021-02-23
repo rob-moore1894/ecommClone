@@ -54,6 +54,13 @@ function Home() {
                         image="https://scontent-dfw5-2.xx.fbcdn.net/v/t45.5328-4/s960x960/45471694_2168673146510952_2483768158368825344_n.jpg?_nc_cat=106&ccb=3&_nc_sid=c48759&_nc_ohc=CIBYo8Ssd5YAX_1PCDy&_nc_ht=scontent-dfw5-2.xx&tp=7&oh=305654471ca825e91fc7e3e904117503&oe=6049FAB4" 
                         rating={4}
                     />
+                    <Product 
+                        id = "7"
+                        title="Limelights LT2024-BLU Fabric Shade, Stick Lamp with Charging Outlet, Blue, Brushed Steel/Blue - New"
+                        price={28.65}
+                        image="https://m.media-amazon.com/images/I/316jP3HdLHL._AC_.jpg"
+                        rating={4}
+                    />
                 </div>
             
             </div>
