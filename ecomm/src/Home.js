@@ -14,7 +14,7 @@ function Home() {
                         id = "1"
                         title="Laser Cut Monogram" 
                         price={15.99} 
-                        image="https://scontent-dfw5-2.xx.fbcdn.net/v/t1.0-0/p526x296/117130096_967603626986749_2699964929535785143_o.jpg?_nc_cat=102&ccb=3&_nc_sid=8bfeb9&_nc_ohc=PabCBK2HOVUAX8YAjJr&_nc_ht=scontent-dfw5-2.xx&tp=6&oh=9c864e03398f56cb0e2e97851ed33582&oe=6049957B" 
+                        image="https://scontent-dfw5-2.xx.fbcdn.net/v/t1.6435-0/p526x296/117130096_967603626986749_2699964929535785143_n.jpg?_nc_cat=102&ccb=1-3&_nc_sid=8bfeb9&_nc_ohc=B4oRjUXRTQMAX8x2lrU&_nc_ht=scontent-dfw5-2.xx&tp=6&oh=5c7bbac0b4f5214cfa54a41e176d45f0&oe=6098B3AA" 
                         rating={5}/>
                     <Product 
                         id = "2"
@@ -42,7 +42,7 @@ function Home() {
                         id = "5"
                         title="Laser Cut Wooden Sign" 
                         price={29.99} 
-                        image="https://scontent-dfw5-1.xx.fbcdn.net/v/t1.0-0/p526x296/117444716_970928169987628_848189242092012146_o.jpg?_nc_cat=103&ccb=3&_nc_sid=8bfeb9&_nc_ohc=Hq1WYQfSk04AX99iR_5&_nc_ht=scontent-dfw5-1.xx&tp=6&oh=aabde88cb58037af9552009c3a018f2e&oe=604ABA4B" 
+                        image="https://scontent-dfw5-1.xx.fbcdn.net/v/t1.6435-0/p526x296/117444716_970928169987628_848189242092012146_n.jpg?_nc_cat=103&ccb=1-3&_nc_sid=8bfeb9&_nc_ohc=jLRiKRbGK3AAX9I94cc&_nc_ht=scontent-dfw5-1.xx&tp=6&oh=8a888232289070d474496e0b669c8b86&oe=609AC828" 
                         rating={3}
                     />
                 </div>
@@ -51,7 +51,7 @@ function Home() {
                         id = "6"
                         title="Wonder Woman Cancer Ribbon" 
                         price={20.00} 
-                        image="https://scontent-dfw5-2.xx.fbcdn.net/v/t45.5328-4/s960x960/45471694_2168673146510952_2483768158368825344_n.jpg?_nc_cat=106&ccb=3&_nc_sid=c48759&_nc_ohc=CIBYo8Ssd5YAX_1PCDy&_nc_ht=scontent-dfw5-2.xx&tp=7&oh=305654471ca825e91fc7e3e904117503&oe=6049FAB4" 
+                        image="https://scontent-dfw5-2.xx.fbcdn.net/v/t45.5328-4/s960x960/45471694_2168673146510952_2483768158368825344_n.jpg?_nc_cat=106&ccb=1-3&_nc_sid=c48759&_nc_ohc=OYtYRwxnnH8AX-gKiPM&_nc_ht=scontent-dfw5-2.xx&tp=7&oh=6229b9c3626c435068cba59856e6dd44&oe=609914B4" 
                         rating={4}
                     />
                     <Product 
